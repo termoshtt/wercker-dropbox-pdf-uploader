@@ -3,4 +3,4 @@ version: 0.1.0
 description: Upload PDF to dropbox
 keywords:
   - Dropbox
-properties:
+properties: {}
